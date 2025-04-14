@@ -1,3 +1,4 @@
+import m1 from '../assets/m-1.png'
 
 export const employees = [
     {
@@ -66,7 +67,7 @@ export const clients = [
 
 export const meals = [
     {
-        image: '/public/meals/m-1.png',
+        image: m1,
         name: 'Osh',
         category: 'meal',
         price: 25_000
