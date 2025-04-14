@@ -1,0 +1,51 @@
+@import "tailwindcss";
+body {
+    font-family: "Irish Grover", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.container {
+    max-width: 1110px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.main-font,
+.main-font * {
+    font-family: "Irish Grover", system-ui !important;
+    font-size: 18px;
+}
+.custom-label .ant-form-item-label > label {
+    font-size: 22px; 
+}
+.custom-input .ant-input,
+.ant-input-password {
+    border-color: #5CB338 !important;
+}
+.btn {
+    font-size: 22px;
+    width: 200px;
+    height: 50px;
+    padding: 10px 15px;
+    color: #5CB338;
+    font-family: "Irish Grover", system-ui;
+}
+.btn:hover {
+    color: #fff !important;
+    border-color: #5CB338 !important;
+    background-color: #5CB338 !important;
+}
+.btn-log {
+    font-size: 22px;
+    width: 200px;
+    height: 50px;
+    padding: 10px 15px;
+    color: #fff;
+    background-color: #5CB338;
+    font-family: "Irish Grover", system-ui;
+}
+.btn-log:hover {
+    background-color: #51a32d !important;
+}
+.btn-log:active {
+    background-color: #5CB338 !important;
+}
