@@ -1,4 +1,9 @@
 # React + Vite
+Vercel: [View](https://kitchen-steel-seven.vercel.app/login/)
+
+Asosiy: Reactjs, Redux toolkit dan foydalanildi
+
+![Kitchen](https://github.com/bekzodxudaybergenow/kitchen/blob/master/public/kitchen.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
