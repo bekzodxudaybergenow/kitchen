@@ -1,5 +1,5 @@
 # React + Vite
-Vercel: [View](https://kitchen-steel-seven.vercel.app/login/)
+Vercel: [View](https://kitchen-steel-seven.vercel.app/)
 
 Asosiy: Reactjs, Redux toolkit dan foydalanildi
 
